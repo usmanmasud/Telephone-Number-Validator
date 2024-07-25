@@ -3,9 +3,9 @@ body {
     font-family: Arial, Helvetica, sans-serif;
     text-align: center;
     margin: 0;
-    padding: 50px;
-    color: rgb(117, 108, 94);
+    padding: 0;
     font-size: 18px;
+    color: white;
 }
 
 h1 {
@@ -24,6 +24,16 @@ h1 {
     margin-top: 40px;
     padding: 10px;
     border-radius: 25px;
+}
+
+#results-div {
+    color: rgb(117, 108, 94);
+
+}
+
+label {
+    color: rgb(117, 108, 94);
+
 }
 
 .dot {
